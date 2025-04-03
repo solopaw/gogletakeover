@@ -18,6 +18,7 @@
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
+    "tailwind-animate": "^0.2.10",
     "typescript": "latest"
   }
 }
